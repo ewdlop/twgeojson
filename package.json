@@ -24,7 +24,7 @@
     "optimist": "*",
     "d3": "3.0.x",
     "topojson": "0.0.10",
-    "mapshaper": "0.1.18"
+    "mapshaper": "0.6.44"
   },
   "optionalDependencies": {}
 }
